@@ -11,7 +11,7 @@
 ## Quick Start
 
 1. **Clone the repository**
-    git clone https://github.com/yourusername/glaucoguide.git
+    git clone https://github.com/Akshaya2904/glaucoguide.git
     cd glaucoguide
 
 2. **Install dependencies**
